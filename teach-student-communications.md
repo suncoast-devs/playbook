@@ -2,7 +2,7 @@
 description: >-
   This will be a section to document unique and challenging experience with
   students (anonymously) to help serve as a guide when figuring out how to
-  interact with a hard situation.
+  interact with a hard situation.This should not be a copy and paste guide on how to deal with students
 ---
 
 # Instructor Student Communications
