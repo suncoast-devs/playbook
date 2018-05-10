@@ -1,10 +1,3 @@
----
-description: >-
-  This aims to be a FAQ to handle common questions or concerns that new
-  Prospective students can have. A prospective student is one that we have talk
-  to, maybe interviewed but not accepted yet.
----
-
 # Prospective Students
 
 ## What online resources are there to help me know more about coding?
